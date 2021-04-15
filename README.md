@@ -1,7 +1,7 @@
 # my-cv
 
 here is the link to it, hosted on github pages
-https://
+https://erehmaryann.github.io/resume/
 
 ## it is fully responsive on any device,
 
